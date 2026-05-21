@@ -113,7 +113,7 @@
                   <!-- COLUMN 1: Personal Info (Left) -->
                   <td width="185" valign="top" style="width: 185px; padding-right: 15px;">
                     <!-- Name -->
-                    <div style="font-family: 'Open Sans', sans-serif; font-size: 16px; font-weight: 500; color: #00e2b2; text-transform: uppercase; line-height: 1.2; letter-spacing: 0.3px;">
+                    <div style="font-family: 'Open Sans', sans-serif; font-size: 16px; font-weight: 500; color: #00e2b2; text-transform: uppercase; line-height: 1.2; letter-spacing: 0.1px;">
                       Adrianne Lorenzo<br />Corpuz
                     </div>
                     <!-- Job Title -->
